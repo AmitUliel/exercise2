@@ -7,6 +7,9 @@ import org.junit.Test;
 
 /**
  * Unit test for simple App.
+ * 
+ * Israel Amit Uliel 319050423
+ * Paz Abitbul 315663963
  */
 public class AppTest 
 {

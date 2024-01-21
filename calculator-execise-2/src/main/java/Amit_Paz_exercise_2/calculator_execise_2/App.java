@@ -1,8 +1,8 @@
 package Amit_Paz_exercise_2.calculator_execise_2;
 
 /**
- * Hello world!
- *
+ * Israel Amit Uliel 319050423
+ * Paz Abitbul 315663963
  */
 public class App 
 {
