@@ -18,6 +18,7 @@ public class AppTest
      */
 	
 	// Start F check
+	// F min
     @Test
     public void ex2_partition_F_min()
     {
@@ -25,6 +26,8 @@ public class AppTest
         String expectedResult = "F";
         assertEquals(expectedResult, App.numberToChar(number));       
     }
+    
+ // F min + 1
     @Test
     public void ex2_partition_F_minPlus1()
     {
@@ -32,6 +35,8 @@ public class AppTest
         String expectedResult = "F";
         assertEquals(expectedResult, App.numberToChar(number)); 
     }
+    
+    // F nominal
     @Test
     public void ex2_partition_F_nominal()
     {
@@ -39,6 +44,8 @@ public class AppTest
         String expectedResult = "F";
         assertEquals(expectedResult, App.numberToChar(number)); 
     }
+    
+    // F max - 1
     @Test
     public void ex2_partition_F_maxMinus1()
     {
@@ -46,6 +53,8 @@ public class AppTest
         String expectedResult = "F";
         assertEquals(expectedResult, App.numberToChar(number)); 
     }
+    
+ // F max
     @Test
     public void ex2_partition_F_max()
     {
